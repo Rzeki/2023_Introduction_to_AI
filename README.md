@@ -1,4 +1,6 @@
-College project for subject: Introduction to artificial intelligence
+College project for subject: Introduction to artificial intelligence \
+Note: Datasets samples couldn't be provided in this repository!
+
 
 # FACE APIs comparison
 ## The goal of the project: 

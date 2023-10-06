@@ -12,4 +12,4 @@ a) identify a catalogue of situations that may frequently arise when interacting
 b) prepare a database of images expressing facial expressions in a natural (non-forced) way in different situations, \
 c) identify existing APIs for recognising emotions from facial expressions, \
 d) evaluate the found APIs on the prepared set, \
-e) summarise the results by indicating the strengths and weaknesses (supported situations) for each API. \
+e) summarise the results by indicating the strengths and weaknesses (supported situations) for each API. 
